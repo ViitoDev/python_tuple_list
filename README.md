@@ -26,11 +26,3 @@ Este repositório reúne scripts práticos desenvolvidos para o estudo de lógic
 
 ## 🛠️ Tecnologias
 * **Python 3.x**
-
----
-
-## 🚀 Como utilizar
-
-1. **Clone o repositório:**
-   ```bash
-   git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/seu-usuario/nome-do-repositorio.git)
